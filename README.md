@@ -1,7 +1,7 @@
 <h1 align="center">Chatbot using Python</h1>
 
 <div align="center">
-  <img src="chatbot.png" alt="Chatbot" width="300">
+  <img src="chat.png" alt="Chatbot" width="300">
 </div>
 
 ---
