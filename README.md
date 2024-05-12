@@ -1,7 +1,7 @@
 <h1 align="center">Chatbot using Python</h1>
 
 <div align="center">
-  <img src="chatbot_image.png" alt="Chatbot Image" width="300">
+  <img src="./chatbot.png" alt="Chatbot Image" width="300">
 </div>
 
 ---
@@ -70,7 +70,7 @@ This project aims to create a chatbot using Python that can understand and respo
 
 ## Contributors
 
-- John Doe <johndoe@example.com>
+- Mohamed Saifeldin <msaifeldin46@gmail.com>
 
 ---
 
